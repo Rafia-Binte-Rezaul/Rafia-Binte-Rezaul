@@ -16,7 +16,6 @@ Full-Stack Developer • Python Enthusiast • System Builder
 💻 Full-Stack Developer focused on Python & Web Technologies  
 🌱 Currently strengthening backend logic & system design  
 🚀 Building practical, real-world systems  
-📍 Based in Malaysia  
 
 ---
 
