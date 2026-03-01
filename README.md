@@ -29,27 +29,10 @@ Full-Stack Developer • Python Enthusiast • System Builder
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafia-Binte-Rezaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafia-Binte-Rezaul&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafia-Binte-Rezaul&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rafia-Binte-Rezaul/Rafia-Binte-Rezaul/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
