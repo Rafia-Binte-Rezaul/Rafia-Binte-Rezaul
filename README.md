@@ -1,28 +1,59 @@
-## Hello World! 🌍
+<!-- Header Banner -->
+<h1 align="center">Hi, I'm Rafia 👋</h1>
 
-I'm Rafia 👋  
-A full-stack developer focusing on Python development and web technologies.  
-I use this GitHub to share my projects, experiments, and ideas.
----
+<h3 align="center">
+Full-Stack Developer • Python Enthusiast • System Builder
+</h3>
 
-## Things I deal with
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-
-### Other Tech
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=06CC91&center=true&vCenter=true&width=600&lines=Building+Real+World+Projects;Full+Stack+Web+Developer;Focused+on+Clean+Architecture;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-✨ Fun fact: I enjoy learning by building real projects and improving my code step by step.
+## 👩‍💻 About Me
+
+💻 Full-Stack Developer focused on Python & Web Technologies  
+🌱 Currently strengthening backend logic & system design  
+🚀 Building practical, real-world systems  
+📍 Based in Malaysia  
+
+---
+
+## 🛠 Tech Stack
+
+### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,php,cs,kotlin,mysql" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Rafia-Binte-Rezaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafia-Binte-Rezaul&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rafia-Binte-Rezaul&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rafia-Binte-Rezaul/Rafia-Binte-Rezaul/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ✨ Philosophy
+
+I believe in learning by building real systems and improving them step by step.
